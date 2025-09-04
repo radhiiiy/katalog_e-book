@@ -166,6 +166,10 @@ nav ul li a:hover {
   margin: 5rem;
 }
 
+.menu a {
+  text-decoration: none;
+}
+
 .menu-item {
   display: flex;
   align-items: center;
@@ -238,8 +242,7 @@ nav ul li a:hover {
   margin: 5rem;
   color: #333;
   font-size: medium;
-  cursor: pointer;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 .view-all {
@@ -258,7 +261,7 @@ nav ul li a:hover {
 }
 
 .book-cover img {
-  width: 3rem;
+  width: 10rem;
 }
 
 .book-details h1 {
