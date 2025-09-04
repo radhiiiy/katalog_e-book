@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Michroma&family=Spicy+Rice&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -23,7 +25,6 @@ nav {
 nav .logo {
   color: #EAEFEF;
   font-size: 20px;
-  font-weight: bold;
   font-family: 'Spicy Rice';
 }
 
@@ -93,6 +94,7 @@ nav ul li a:hover {
 .title {
   font-size: 3rem;
   padding-top: 9rem;
+  font-family: "Michroma", sans-serif;
 }
 
 .container-bg {
@@ -100,35 +102,34 @@ nav ul li a:hover {
   background-size: cover;
   height: 100%;
 }
-
+.carousel-inner{
+  border-radius: 1rem;
+}
 .container {
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
-
-
 .cover {
   display: flex;
   justify-content: center;
-  margin: 2rem;
+  margin: 5rem;
 }
 
-.cover img {
-  max-width: 100%;
-  border-radius: 1rem;
+.cover .img {
+  margin-top: 3rem;
 }
 
 .kategori {
   display: flex;
   flex-direction: column;
-  gap: 4rem;
-  margin: 2rem;
+  gap: 3rem;
+  margin: 5rem;
 }
 
 .card {
   border-radius: 1rem;
   overflow: hidden;
-  height: 15.9rem;
+  height: 11.2rem;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -199,12 +200,21 @@ nav ul li a:hover {
   height: 6rem;
   border-radius: 0.5rem;
 }
-
+.buku-populer{
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 .populer {
   justify-content: center;
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-family: "Michroma", sans-serif
+}
+.populer h2{
+  font-family: "Michroma", sans-serif;
 }
 .rekomendasi {
   justify-content: center;
@@ -212,6 +222,9 @@ nav ul li a:hover {
   flex-direction: column;
   align-items: center;
   margin-top: 3rem;
+}
+.rekomendasi h2{
+  font-family: "Michroma", sans-serif;
 }
 .books {
   display: flex;
@@ -272,7 +285,6 @@ nav ul li a:hover {
 .book-details p {
   margin: 1rem 0;
 }
-
 .read-count {
   font-size: 0.875rem;
   color: #666;
@@ -312,12 +324,14 @@ footer {
 
 .footer-left h2 {
   margin: 2rem;
-  font-weight: bold;
+  font-family: "Spicy Rice", serif;
+  color: #EAEFEF;
 }
 
 .footer-left p {
   margin: 2rem;
   font-size: small;
+  color: #EAEFEF;
 }
 
 .footer-right {
@@ -327,6 +341,7 @@ footer {
 
 .footer-right p {
   margin: 2rem;
+  color: #EAEFEF;
 }
 
 .footer-bottom {
