@@ -1,0 +1,89 @@
+  <div class="w3-container">
+    <section>
+      <h1 class="title">Literasi Jendela Ilmu</h1>
+    </section>
+  </div>
+  <div class="container-bg">
+    <div class="container">
+      <div class="book-info">
+        <div class="book-cover">
+          <img src="image/restu.png" alt="Menanti Restu Langit">
+        </div>
+        <div class="book-details">
+          <h1>Menanti Restu Langit</h1>
+          <p><strong>Penulis :</strong> MAKHASIN</p>
+          <p class="genre"><strong>Genre :</strong> Fiksi, Romansa</p>
+          <div class="actions">
+            <a href="#" class="btn">BACA</a>
+          </div>
+          <div class="read-count">Telah dibaca 99rb+</div>
+        </div>
+      </div>
+    </div>
+    <div class="synopsis">
+      <h2>Sinopsis</h2>
+      <p>
+        Novel "Menunggu Restu Langit" adalah sebuah cerita romansa spiritual yang mendalam, mengisahkan perjuangan
+        dua
+        insan, Nadia dan Arif, dalam mengarungi perjalanan cinta mereka demi mendapatkan restu Ilahi. Nadia
+        digambarkan sebagai seorang gadis muda yang penuh semangat dan sangat taat beribadah, sementara Arif
+        adalah
+        seorang pemuda sederhana yang dulunya memiliki masa lalu yang kelam, namun kini telah bertransformasi
+        total.
+      </p>
+      <p>
+        Pertemuan pertama mereka terjadi di sebuah pengajian rutin di masjid kampus, di mana Nadia terkesan dengan
+        keseriusan dan dedikasi Arif dalam mendalami ilmu agama. Nadia mengetahui bahwa Arif pernah melewati
+        masa-masa
+        sulit, termasuk pergaulan bebas dan kenakalan remaja. Namun, Arif telah mendapatkan hidayah dari Allah,
+        membuatnya berubah drastis dan kini aktif dalam kegiatan dakwah, bahkan menjadi sosok inspiratif bagi
+        banyak
+        orang.
+      </p>
+      <p>
+        Meskipun benih cinta telah tumbuh, hubungan mereka menghadapi rintangan besar. Keluarga Nadia, khususnya
+        sang
+        ayah, sangat selektif dalam memilih calon suami untuk putrinya. Ayah Nadia merasa bahwa Arif belum layak
+        karena catatan masa lalunya yang buruk, meskipun Arif telah membuktikan perubahan dirinya melalui sikap
+        dan
+        amal ibadahnya yang baik. Kondisi ini memaksa Nadia untuk berjuang keras meyakinkan keluarganya bahwa Arif
+        adalah pria yang baik dan pantas mendapatkan restu mereka.
+      </p>
+      <p>
+        Di sisi lain, Arif juga menghadapi ujian berat dalam hidupnya. Ia menyadari bahwa untuk menjadi seorang
+        suami
+        yang bertanggung jawab, ia harus memperbaiki kondisi ekonominya. Dengan tekad yang kuat, Arif bekerja
+        siang
+        malam, tanpa henti memperdalam ilmu agama, dan menjaga komitmennya untuk menjalani hidup yang lebih baik.
+        Ia
+        memiliki keyakinan penuh bahwa restu Allah hanya akan datang jika ia berusaha dengan sepenuh hati dan
+        ikhlas.
+      </p>
+    </div>
+    <div class="rekomendasi">
+      <h2>Rekomendasi untuk Anda</h2>
+      <div class="books">
+        <a href="">
+          <div class="book">
+            <img src="image/minor.png" alt="Matahari Minor">
+          </div>
+        </a>
+        <a href="">
+          <div class="book">
+            <img src="image/dilan.png" alt="Dilan 1990">
+          </div>
+        </a>
+        <a href="">
+          <div class="book">
+            <img src="image/laut.png" alt="Laut Bercerita">
+          </div>
+        </a>
+        <a href="">
+          <div class="book">
+            <img src="image/shaga.png" alt="Shaga">
+          </div>
+        </a>
+      </div>
+      <div class="lihat-lebih"></div>
+    </div>
+  </div>
