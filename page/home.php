@@ -35,7 +35,7 @@
     <div class="populer">
         <h2>Terpopuler</h2>
         <div class="books">
-            <a href="Detail.html">
+            <a href="index.php?page=detail">
                 <div class="book">
                     <img src="image/minor.png" alt="Matahari Minor">
                 </div>
@@ -56,6 +56,6 @@
                 </div>
             </a>
         </div>
-        <div class="lihat-lebih"><a href="page/View_all.php">Lihat Lebih Banyak</a></div>
+        <div class="lihat-lebih"><a href="index.php?page=View_all">Lihat Lebih Banyak</a></div>
     </div>
 </div>

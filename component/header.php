@@ -9,7 +9,6 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"
         defer></script>
-    <link rel="stylesheet" href="style.css">
-    <title>ASKALA MEDIA - Landing Page</title>
-    <link rel="icon" type="image/png" href="image/favicon.png">
+    <link rel="stylesheet" href="/KATALOG_E-BOOK/style.css?v=<?=time()?>">
+    <link rel="icon" type="image/png" href="/KATALOG_E-BOOK/image/favicon.png">
 </head>
