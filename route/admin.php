@@ -2,7 +2,7 @@
 require_once('../../config/Database.php');
 
 // ambil parameter routing
-$page   = $_GET['page'] ?? 'dashboard';
+$page = $_GET['page'] ?? 'dashboard';
 // $action = $_GET['action'] ?? 'index';
 
 // Routing halaman admin
@@ -13,6 +13,10 @@ switch ($page) {
 
     case 'form_buku':
         include '../../page/admin/admin-page/form_buku.php';
+        break;
+
+    case 'form_genre';
+        include '../../page/admin/admin-page/form_genre.php';
         break;
 
     default:

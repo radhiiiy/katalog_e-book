@@ -63,7 +63,7 @@
                     </a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link <?= ($page == 'genre') ? 'active' : '' ?>" href="?page=">
+                    <a class="nav-link <?= ($page == 'genre') ? 'active' : '' ?>" href="?page=form_genre">
                         <i class="fas fa-tags me-2"></i> Kelola Genre
                     </a>
                 </li>
